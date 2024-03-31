@@ -31,7 +31,7 @@ Kaboard is an open-source project, and we welcome your contributions! Here's how
 
 * **Report Issues:** Found a bug? Let us know by creating an issue.
 * **Suggest Features:** Have an idea for a cool feature? Share it in a new issue.
-* **Submit Pull Requests:** Ready to fix or develop something?  Follow our contribution guidelines [link to guidelines].
+* **Submit Pull Requests:** Ready to fix or develop something?  Follow our contribution guidelines [[link to guidelines](https://github.com/TadashiJei/Kaboard/wiki)].
 
 ## License
 
